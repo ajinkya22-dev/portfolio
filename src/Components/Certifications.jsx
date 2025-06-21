@@ -5,7 +5,7 @@ import Footer from "./Footer.jsx";
 const cards = [
     { title: 'CyberSecurity Analyst', org: 'IBM', color: 'bg-green-600', logo: 'src/assets/ibm.png' },
     { title: 'Fullstack Developer', org: 'IBM', color: 'bg-rose-500', logo: 'src/assets/ibm.png' },
-    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: 'src/assets/gfg.jpg' },
+    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: 'src/assets/gfg.png' },
 
 ]
 

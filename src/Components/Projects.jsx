@@ -6,7 +6,7 @@ const projects = [
         title: 'Chat Application',
         description:
             'Personal Chat Room or Workspace to share resources and hangout with friends. Built with React.js, Material-UI, and Firebase.',
-        image: '/src/assets/Chat-application.jpg',
+        image: 'src/assets/Chat-application.png',
         github: '#',
         demo: '#',
     },
