@@ -1,0 +1,24 @@
+.hero-gradient {
+    background: radial-gradient(circle at top left, #020202, #111827);
+}
+
+.neon-circle {
+    border-radius: 50%;
+    padding: 5px;
+    background: radial-gradient(circle, #00f0ff, #6a00ff);
+    box-shadow: 0 0 25px #00f0ff, 0 0 50px #6a00ff;
+}
+
+.neon-btn {
+    background: #00f0ff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 9999px;
+    box-shadow: 0 0 10px #00f0ff;
+    color: black;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.neon-btn:hover {
+    box-shadow: 0 0 20px #00f0ff;
+}
