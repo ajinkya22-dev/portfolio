@@ -6,7 +6,7 @@ const projects = [
         title: 'Chat Application',
         description:
             'Personal Chat Room or Workspace to share resources and hangout with friends. Built with React.js, Material-UI, and Firebase.',
-        image: 'src/assets/Chat-application.png',
+        image: 'public/Chat-application.png',
         github: '#',
         demo: '#',
     },
@@ -15,7 +15,7 @@ const projects = [
         title: 'Expense Tracker',
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
-        image: 'src/assets/expense-tracker.png',
+        image: 'public/expense-tracker.png',
         github: '#',
         demo: '#',
     },
