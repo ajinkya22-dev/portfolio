@@ -6,20 +6,20 @@ const projects = [
         title: 'Chat Application',
         description:
             'Personal Chat Room or Workspace to share resources and hangout with friends. Built with React.js, Material-UI, and Firebase.',
-        image: 'public/Chat-application.png',
+        image: '/portfolio/Chat-application.png', // Add repo name if using GitHub Pages
         github: '#',
         demo: '#',
     },
-
     {
         title: 'Expense Tracker',
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
-        image: 'public/expense-tracker.png',
+        image: '/portfolio/expense-tracker.png', // Add repo name if using GitHub Pages
         github: '#',
         demo: '#',
     },
 ];
+
 
 const Projects = ({ isDarkMode }) => {
     return (
