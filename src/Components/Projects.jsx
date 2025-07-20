@@ -2,14 +2,7 @@ import Footer from "./Footer.jsx";
 import React from "react";
 
 const projects = [
-    {
-        title: 'Chat Application',
-        description:
-            'Personal Chat Room or Workspace to share resources and hangout with friends. Built with React.js, Material-UI, and Firebase.',
-        image: '/portfolio/Chat-application.png', // Add repo name if using GitHub Pages
-        github: 'https://github.com/ajinkya22-dev/chatApplication',
-        demo: '#',
-    },
+
     {
         title: 'Expense Tracker',
         description:
