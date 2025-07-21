@@ -56,9 +56,10 @@ function App() {
                {/* Section rendering */}
                <main className="pt-24">
                    {activeSection === 'Home' && (
-                       <section className="flex flex-col lg:flex-row items-center justify-between px-6 sm:px-12 min-h-screen gap-10">
+                       <section className="flex flex-col-reverse lg:flex-row items-center justify-center px-6 sm:px-12 py-12 min-h-screen gap-30">
 
-                           <motion.div
+
+                       <motion.div
                                className="max-w-xl text-center lg:text-left"
                                initial={{ x: -100, opacity: 0 }}
                                animate={{ x: 0, opacity: 1 }}
