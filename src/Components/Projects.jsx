@@ -1,20 +1,21 @@
 import Footer from "./Footer.jsx";
 import React from "react";
-
+import ExpenseTracker from "../assets/expense-tracker.png";
+import Blog from "../assets/blog.png";
 const projects = [
 
     {
         title: 'Expense Tracker',
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
-        image: '/portfolio/expense-tracker.png', // Add repo name if using GitHub Pages
+        image: ExpenseTracker, // Add repo name if using GitHub Pages
         github: 'https://github.com/ajinkya22-dev/Expense-Tracker',
         demo: 'https://ajinkya22-dev.github.io/Expense-Tracker/',
     },
     {
         title: 'My Blog',
         description: 'TechVerse is my personal blog where I share practical insights on cybersecurity, blockchain, and emerging technologies',
-        image: '/portfolio/blog.png',
+        image: Blog,
         github: 'https://github.com/ajinkya22-dev/Blog',
         demo:  'https://techverse224.wordpress.com/',
     }

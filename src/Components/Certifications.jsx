@@ -1,11 +1,13 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import Footer from "./Footer.jsx";
+import Ibm from "../assets/ibm.png";
+import Gfg from "../assets/gfg.png";
 
 const cards = [
-    { title: 'CyberSecurity Analyst', org: 'IBM', color: 'bg-green-600', logo: '/ibm.png' },
-    { title: 'Fullstack Developer', org: 'IBM', color: 'bg-rose-500', logo: '/ibm.png' },
-    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: '/gfg.png' },
+    { title: 'CyberSecurity Analyst', org: 'IBM', color: 'bg-green-600', logo: Ibm },
+    { title: 'Fullstack Developer', org: 'IBM', color: 'bg-rose-500', logo: Ibm},
+    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: Gfg},
 ];
 
 

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import TypingText from './Components/TypingText';
-import profileImage from '/profile.png';
+import profileImage from './assets/profile.png';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Projects from './Components/Projects';
