@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import TypingText from './components/TypingText';
+import TypingText from './Components/TypingText';
 import profileImage from '/profile.png';
-import About from './components/About';
-import Contact from './components/Contact';
-import Projects from './components/Projects';
+import About from './Components/About';
+import Contact from './Components/Contact';
+import Projects from './Components/Projects';
 import { FiSun, FiMoon } from 'react-icons/fi';
-import Footer from './components/Footer';
+import Footer from './Components/Footer';
 
 
 import './App.css';
