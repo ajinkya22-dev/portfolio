@@ -8,7 +8,6 @@ import Projects from './Components/Projects';
 import { FiSun, FiMoon } from 'react-icons/fi';
 import Footer from './Components/Footer';
 
-
 import './App.css';
 
 function App() {
