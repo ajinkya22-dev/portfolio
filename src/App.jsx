@@ -70,7 +70,7 @@ function App() {
                                    And I'm a <TypingText />
                                </h3>
                                <p className="text-gray-400 mb-6 text-base sm:text-lg">
-                                   Threat Analyst | Full-stack Software developer | Tech Content Creator
+                                   Cybersecurity Analyst | Full-stack Software developer | Tech Content Creator
                                </p>
                                <a
                                    href="https://www.linkedin.com/in/ajinkya-pathak-820675326/"
