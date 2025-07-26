@@ -3,9 +3,9 @@ import { motion } from 'framer-motion'
 import Footer from "./Footer.jsx";
 
 const cards = [
-    { title: 'CyberSecurity Analyst', org: 'IBM', color: 'bg-green-600', logo: '/portfolio/ibm.png' },
-    { title: 'Fullstack Developer', org: 'IBM', color: 'bg-rose-500', logo: '/portfolio/ibm.png' },
-    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: '/portfolio/gfg.png' },
+    { title: 'CyberSecurity Analyst', org: 'IBM', color: 'bg-green-600', logo: '/ibm.png' },
+    { title: 'Fullstack Developer', org: 'IBM', color: 'bg-rose-500', logo: '/ibm.png' },
+    { title: 'JAVA - DSA', org: 'GeeksForGeeks', color: 'bg-green-600', logo: '/gfg.png' },
 ];
 
 
