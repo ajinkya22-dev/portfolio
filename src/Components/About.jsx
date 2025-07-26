@@ -1,8 +1,7 @@
 import React from 'react'
 import Certifications from './Certifications.jsx'
-import Experience from './Experiance.jsx'
 import { motion } from 'framer-motion'
-import Footer from "./Footer.jsx";
+
 
 function About() {
     return (
