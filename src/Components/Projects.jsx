@@ -2,6 +2,7 @@ import Footer from "./Footer.jsx";
 import React from "react";
 import ExpenseTracker from "../assets/expense-tracker.png";
 import Blog from "../assets/blog.png";
+import MediConnect from "../assets/MediConnect.png"
 const projects = [
 
     {
@@ -11,6 +12,14 @@ const projects = [
         image: ExpenseTracker, // Add repo name if using GitHub Pages
         github: 'https://github.com/ajinkya22-dev/Expense-Tracker',
         demo: 'https://ajinkya22-dev.github.io/Expense-Tracker/',
+    },
+    {
+        title: 'HealthCare Management',
+        description:
+            'Secure healthcare management system ensuring encrypted records, private interactions, and seamless patient care.',
+        image: MediConnect, // Add repo name if using GitHub Pages
+        github: 'https://github.com/ajinkya22-dev/HealthCare',
+        demo: 'https://mediconnect22.vercel.app/',
     },
     {
         title: 'My Blog',
