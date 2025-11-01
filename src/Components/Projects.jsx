@@ -10,14 +10,30 @@ const projects = [
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
         image: ExpenseTracker, // Add repo name if using GitHub Pages
-        github: 'https://github.com/ajinkya22-dev/Expense-Tracker',
-        demo: 'https://ajinkya22-dev.github.io/Expense-Tracker/',
+        github: 'https://github.com/ajinkya22-dev/ExpenseManager',
+        demo: 'https://expensemanager22.vercel.app/dashboard',
+
     },
     {
         title: 'HealthCare Management',
         description:
             'Secure healthcare management system ensuring encrypted records, private interactions, and seamless patient care.',
         image: MediConnect, // Add repo name if using GitHub Pages
+        github: 'https://github.com/ajinkya22-dev/HealthCare',
+        demo: 'https://mediconnect22.vercel.app/',
+    },
+    {
+        title: 'Network Data Monitoring System',
+        description:
+            'Real-time network monitoring and anomaly-detection system using Wireshark CLI, ML-based traffic analysis with MongoDB persistence, and a live React + Socket.IO dashboard for KPIs and packet logs.',
+        image: MediConnect,
+        github: 'https://github.com/ajinkya22-dev/Network-Monitoring-System'
+    },
+    {
+        title: 'HealthCare Management',
+        description:
+            'Secure healthcare management system ensuring encrypted records, private interactions, and seamless patient care.',
+        image: MediConnect,
         github: 'https://github.com/ajinkya22-dev/HealthCare',
         demo: 'https://mediconnect22.vercel.app/',
     },
