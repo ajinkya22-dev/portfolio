@@ -3,6 +3,7 @@ import React from "react";
 import ExpenseTracker from "../assets/expense-tracker.png";
 import Blog from "../assets/blog.png";
 import MediConnect from "../assets/MediConnect.png"
+import network_monitor from "../assets/network-monitoring.jpeg";
 const projects = [
 
     {
@@ -10,7 +11,7 @@ const projects = [
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
         image: ExpenseTracker, // Add repo name if using GitHub Pages
-        github: 'https://github.com/ajinkya22-dev/ExpenseManager',
+        github: 'https://expensemanager-psi.vercel.app',
         demo: 'https://expensemanager22.vercel.app/dashboard',
 
     },
@@ -26,17 +27,10 @@ const projects = [
         title: 'Network Data Monitoring System',
         description:
             'Real-time network monitoring and anomaly-detection system using Wireshark CLI, ML-based traffic analysis with MongoDB persistence, and a live React + Socket.IO dashboard for KPIs and packet logs.',
-        image: MediConnect,
+        image: network_monitor,
         github: 'https://github.com/ajinkya22-dev/Network-Monitoring-System'
     },
-    {
-        title: 'HealthCare Management',
-        description:
-            'Secure healthcare management system ensuring encrypted records, private interactions, and seamless patient care.',
-        image: MediConnect,
-        github: 'https://github.com/ajinkya22-dev/HealthCare',
-        demo: 'https://mediconnect22.vercel.app/',
-    },
+
     {
         title: 'My Blog',
         description: 'TechVerse is my personal blog where I share practical insights on cybersecurity, blockchain, and emerging technologies',
