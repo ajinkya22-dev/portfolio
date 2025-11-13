@@ -11,8 +11,8 @@ const projects = [
         description:
             'Online code & markdown editor with live preview. Built with React.js, supports GFM, toolbar, autosave.',
         image: ExpenseTracker, // Add repo name if using GitHub Pages
-        github: 'https://expensemanager-psi.vercel.app',
-        demo: 'https://expensemanager22.vercel.app/dashboard',
+        github: 'https://github.com/ajinkya22-dev/ExpenseManager',
+        demo: 'https://expensemanager-psi.vercel.app',
 
     },
     {
